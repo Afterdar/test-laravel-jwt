@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Services\ActionsUser\Database\Repository;
 
 use App\Services\ActionsUser\Database\Models\ActionUser;

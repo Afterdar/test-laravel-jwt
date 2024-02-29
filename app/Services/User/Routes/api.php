@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-use App\Services\Post\Http\Controller\PostController;
 use App\Services\User\Http\Controller\AuthController;
 use App\Services\User\Http\Controller\UserController;
 use Illuminate\Support\Facades\Route;
